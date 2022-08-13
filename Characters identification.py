@@ -1,0 +1,5 @@
+X=str(input("Text÷"))
+Y=len(X)
+print("no. of characters÷",Y)
+print(X[:-1])
+print(X[2])
